@@ -1,0 +1,22 @@
+
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+*.code-workspace
+.history/
+
+
+# Local development settings
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
